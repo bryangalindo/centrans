@@ -1,0 +1,9 @@
+selenium
+bs4
+requests
+urllib3
+flask
+lxml
+pandas
+xlrd
+openpyxl
