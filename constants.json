@@ -70,16 +70,16 @@ PDTJ_JSON = {
 			"AGENTREF": "PDTJJMON"
 			},
 		"CMA": {
-			"MBL": "CMDUCNSE"
+			"MBL": "CMDUCNSE",
 			"AGENTREF": "PDTJJMCM"
 			},
 		"MAERSK" {
-			"MBL": "MAEU"
+			"MBL": "MAEU",
 			"AGENTREF": "PDTJJMMK"
 			},
 		"COSCO" {
-			"MBL": "COSU619"
-			"AGENTREF" := "PDTJJMCO"
+			"MBL": "COSU619",
+			"AGENTREF": "PDTJJMCO"
 			},
 		"MSC" {
 			"MBL": "MEDUQ",
