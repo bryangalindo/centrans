@@ -24,13 +24,4 @@ class CMA:
         container_sizes = [size.text for size in self.response('td', {'data-ctnr': 'size'})]
         containers = zip(container_numbers, container_sizes)
         return containers
-
-
-cma = CMA('CNSE416431')
-info = cma.get_cma_containers()
-print(info)
-
-
-
-
-
+    
