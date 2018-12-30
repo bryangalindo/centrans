@@ -92,10 +92,11 @@ class APL:
                                                 'Containers': containers}}
 
 
+# Use this block to test speeds
 
-startTime = datetime.now()
-apl_list = ['062605013', '101225200', '660349252', '660349346', '660349375', '660349383', '751064070', '751064107']
-for mbl in apl_list:
-    apl = APL(mbl)
-    print(apl.get_all_info())
-print(datetime.now() - startTime)
+# startTime = datetime.now()
+# apl_list = ['062605013', '101225200', '660349252', '660349346', '660349375', '660349383', '751064070', '751064107']
+# for mbl in apl_list:
+#     apl = APL(mbl)
+#     print(apl.get_all_info())
+# print(datetime.now() - startTime)
